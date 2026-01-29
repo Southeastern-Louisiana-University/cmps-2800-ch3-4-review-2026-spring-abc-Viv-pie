@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
-    public class Chapter4Review {
+    public class LogicGatekeeper {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
 

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Chapter3Review {
+public class CryptographicFormatter
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
